@@ -1,0 +1,19 @@
+{
+    "remotePath": "/export/b/y58/58660070",
+    "host": "angsila.cs.buu.ac.th",
+    "username": "58660126",
+    "password": "0822595886",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
